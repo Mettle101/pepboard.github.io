@@ -1,5 +1,5 @@
 // connect to socket server
-const socket = io.connect("http://localhost:3000/");
+const socket = io.connect("https://mettle101.github.io/pepboard.github.io/");
 // *********************************Basic Setup
 // document => actual html
 
